@@ -1,4 +1,5 @@
 #include "main.cpp"
+#include <iostream>
 class Animal {
 public:
 };
@@ -8,4 +9,4 @@ public:
 };
 class Champanzi {
 public:
-}; 
+};
